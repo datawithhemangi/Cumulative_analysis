@@ -1,5 +1,5 @@
 # Cumulative_analysis
-Cumulative Analysis in SQL is understanding how data accumulates over time is critical for making better business decisions — it transforms raw numbers into meaningful trends.
+Cumulative Analysis in SQL is understanding how data accumulates over time and it is critical for making better business decisions — it transforms raw numbers into meaningful trends.
 
 Instead of just looking at individual row values, Cumulative Analysis lets you:
 
